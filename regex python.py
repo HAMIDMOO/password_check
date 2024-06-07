@@ -24,4 +24,4 @@ def replay():
     if x == "Y":
         replay() 
 
-reply()
+replay()
